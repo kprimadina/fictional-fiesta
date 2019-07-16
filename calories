@@ -1,0 +1,16 @@
+{
+  "calories": [
+    { "id": 1, 
+    "food": "Bakso", 
+    "calory": 200 },
+    
+    { 
+    "id": 2,
+    "food": "Soto", 
+    "calory": 100 },
+    { 
+    "id": 3, 
+    "food": "Mie Ayam", 
+    "calory": 150 }
+  ]
+}
